@@ -1,3 +1,3 @@
 # WebProject1
 A spotfiy clone is made using HTML and CSS.
-![image](https://github.com/user-attachments/assets/8bb2a8e5-5340-42c5-9ee6-1b9c84366abc)
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/c634b894-f4fc-4a6d-b0e7-b2b12e3b5028" />
